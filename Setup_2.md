@@ -7,7 +7,7 @@
 ## Getting a Terminal:
 ### Windows Users: Download a free Secure Shell (ssh). You can use either Moba or Putty. I recommend Moba. 
 #### Option 1: Moba
-•	Download MobaXterm: http://mobaxterm.mobatek.net/download-home- edition.html (Use Installer Edition)
+•	Download MobaXterm: https://mobaxterm.mobatek.net/download-home-edition.html (Use Installer Edition)
 
 •	Once you have a CGRB account and installed MobaXterm, open MobaXterm. Go to Sessions -> New Session, and click on the SSH icon.
 
