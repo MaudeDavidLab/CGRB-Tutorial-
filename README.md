@@ -1,3 +1,2 @@
-# CGRB-Tutorial-
+# David Lab computing resources
 
-Sonica !
