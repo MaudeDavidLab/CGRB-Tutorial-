@@ -4,3 +4,4 @@ When using the server, you cannot do your work on the login node (waterman). You
 
 ### Interactive mode
 1. use SGE_Avail to see a list of the compute nodes you have access to. You may see something like the following:
+![SGE_Avail](screenshots/SGE_Avail.png)
