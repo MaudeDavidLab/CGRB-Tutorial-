@@ -1,13 +1,12 @@
 # Getting Set Up
 
-### Get a CGRB Account
+## Get a CGRB Account
 1.	If you do not have an CGRB account, then you will need to create one by filling out the form at: http://shell.cgrb.oregonstate.edu/access/
 2.	Have a graduate student email Chris Sullivan to make sure the process moves quickly. cc Maude
 
-### Getting a Terminal:
-#### Windows Users: Download a free Secure Shell (ssh). You can use either Moba
-or Putty. I recommend Moba. 
-###### Option 1: Moba
+## Getting a Terminal:
+### Windows Users: Download a free Secure Shell (ssh). You can use either Moba or Putty. I recommend Moba. 
+#### Option 1: Moba
 •	Download MobaXterm: http://mobaxterm.mobatek.net/download-home- edition.html (Use Installer Edition)
 
 •	Once you have a CGRB account and installed MobaXterm, open MobaXterm. Go to Sessions -> New Session, and click on the SSH icon.
@@ -21,7 +20,7 @@ password at the prompt. **Note: You will not see anything as you type your passw
 •	After a successful logon, press enter at the prompt below: Terminal type? [xterm]
 •	Then you get a prompt that looks something like this:
 
-###### Option 2: Putty
+#### Option 2: Putty
 •	Download Putty here: http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe
 •	Once you have the software, launch PuTTY and you will see the following screen:
 
@@ -30,13 +29,14 @@ password at the prompt. **Note: You will not see anything as you type your passw
 •	Select open
 •	You will then be prompted to enter your username and password
 
-### Get VPN
+### Mac or Linux Users: 
+You have a terminal w/ ssh built into the OS. Open the terminal, and at the prompt, type
+ssh onidusername@shell.cgrb.oregonstate.edu -p 732
+
+## Get VPN
 If you are connecting off-campus, you must first have a VPN. Follow the tutorial: https://cosine.oregonstate.edu/faqs/vpn
 
-
-
-### Map Network Drive
-
+## Map Network Drive
 Lastly, you want to map a network drive to the CGRB server. This allows you to directly work off the server as if it were a disk drive on your computer. You can follow these instructions to map a network drive for Windows or MacOS.
 
 #### Windows:
