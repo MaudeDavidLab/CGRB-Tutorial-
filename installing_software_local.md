@@ -1,5 +1,6 @@
 You may run into the situation where you want to develop on your local machine using either python through jupyter notebooks or R through Rstudio.
 
+# Note: If you have all your files on a drive that is not your C: drive (like if you have the server mirrored)
 ### Install Python
 The easiest way is to install Anaconda, which is a program that will install python along with a bunch of the most useful python packages.
 To install, go to https://www.anaconda.com/distribution/, and download and install the appropriate version for your computer. When you are prompted, provide the file path TO YOUR MAPPED DRIVE.
