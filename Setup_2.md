@@ -30,7 +30,7 @@ password at the prompt. **Note: You will not see anything as you type your passw
 •	You will then be prompted to enter your username and password
 
 ### Mac or Linux Users: 
-You have a terminal w/ ssh built into the OS. Open the terminal, and at the prompt, type: \\
+You have a terminal w/ ssh built into the OS. Open the terminal, and at the prompt, type:  
 `ssh onidusername@shell.cgrb.oregonstate.edu -p 732`
 
 ## Get VPN
