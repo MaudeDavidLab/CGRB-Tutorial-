@@ -64,7 +64,7 @@ b.	Password: Enter your email password
 1.	From the desktop, go to the top bar and select "Go", then select "Connect to Server..."
 
 
-2.	In the window that opens, select the "Server Address:" field and type "smb:" followed by the path you wish to access. This is: smb:\\files.cgrb.oregonstate.edu \NFS_PHARM\David_lab\YOUR_FOLDER
+2.	In the window that opens, select the "Server Address:" field and type "smb:" followed by the path you wish to access. This is: smb://files.cgrb.oregonstate.edu/NFS_PHARM/David_lab/YOUR_FOLDER
 
 
 3.	Click on the "+" button to the right of the address bar to add the path to your favorites so that you won't have to retype it next time you connect via this method.
