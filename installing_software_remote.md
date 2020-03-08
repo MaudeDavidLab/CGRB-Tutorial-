@@ -18,13 +18,10 @@ I'll copy R-3.6.1
 5. install.packages("your_package_name"). Often, you will get error messages that say you do not have some of the other packages that your package depends on. For example, ERROR: dependencies ‘isoband’, ‘scales’, ‘tibble’ are not available for package ‘ggplot2’
 You'll have to install all of these dependencies before you can install your package.
 
-*To Come:
-aliases
-bashrc for R version
-
 ### Installing your own versions
 
-### Creating an allias 
+### Creating an alias
+Right now, even though you've installed new software (ex: R), calling R will not given o
 1. Open up your basrc profile  
 `vi ~.bashrc`
 2. Go to the end of the file and type:
