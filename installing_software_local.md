@@ -31,6 +31,16 @@ note: you could map the entire David is you wanted
 4. You should see in your list of files the CGRB_David_lab which points to your CGRB folder
 
 ### Install R
-
-
-### Use R
+#### follow the protocol here
+####FOR MAC
+https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/
+You need to instal both R and Rstudio 
+### Use R with your mapped files: only needed if you have NOT already set this up for jupiter notebook above
+You need to create a symbolic link , as explained above, to be able to see loaccly all t=your files that are on the CGRB. 
+0. VPN into OSU if you're not on campus + map your files fomr the CGRB (see Map Network Drive in the set-up tutorial)
+1. Open your terminal
+2. Create a symbolic link to your mapped files </br>
+`ln -s /Volumes/David_lab/YOURFOLDER CGRB_David_lab` </br>
+note: you could map the entire David is you wanted 
+3. Now launch your Rstudio by cliking on it
+4. You should see in your list of files the CGRB_David_lab which points to your CGRB folder
