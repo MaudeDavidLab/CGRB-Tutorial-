@@ -3,6 +3,7 @@ You may run into the situation where you want to develop on your local machine u
 ### Install Python
 The easiest way is to install Anaconda, which is a program that will install python along with a bunch of the most useful python packages.
 To install, go to https://www.anaconda.com/distribution/, and download and install the appropriate version for your computer.
+
 ![doanload](/screen_shots/Screen Shot 2020-03-08 at 9.42.24 AM.png)
 
 When you are prompted, provide the file path TO YOUR MAPPED DRIVE.
