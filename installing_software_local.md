@@ -11,7 +11,7 @@ For Mac: just answer yes at every steps
 #### Windows
 1. Follow this tutorial. It will require restarting your computer. https://www.infopackets.com/news/10088/how-fix-cant-access-mapped-network-drive-administrative-command-prompt
 2. Open command prompt as adminstrator (open start menu, type command prompt, right click, select 'run as administrator)
-3. Type: `mklink /d name_of_your_symbolic_link Z:` assuming you have mapped to your Z drive
+3. Make sure you are in your C drive. Type: `mklink /d name_of_your_symbolic_link Z:` assuming you have mapped to your Z drive
 
 ### MAC Users:
 0. VPN into OSU if you're not on campus + map your files fomr the CGRB (see Map Network Drive in the set-up tutorial)
