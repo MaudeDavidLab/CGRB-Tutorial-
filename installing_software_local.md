@@ -5,9 +5,11 @@ The easiest way is to install Anaconda, which is a program that will install pyt
 To install, go to https://www.anaconda.com/distribution/, and download and install the appropriate version for your computer.
 (at the bottom of the page, install python 3)
 
-for PC:When you are prompted, provide the file path TO YOUR MAPPED DRIVE.
-`Z:/your_name/software/`
 For Mac: just answer yes at every steps
+
+### Give Python access to your mapped drive
+#### Windows
+1. Follow this tutorial. It will require restarting your computer. https://www.infopackets.com/news/10088/how-fix-cant-access-mapped-network-drive-administrative-command-prompt
 
 ### Use Python
 ###PC USERS
