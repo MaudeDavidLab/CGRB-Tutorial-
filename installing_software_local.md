@@ -10,27 +10,33 @@ For Mac: just answer yes at every steps
 ### Give Python access to your mapped drive
 #### Windows
 1. Follow this tutorial. It will require restarting your computer. https://www.infopackets.com/news/10088/how-fix-cant-access-mapped-network-drive-administrative-command-prompt
+2. Open command prompt as adminstrator (open start menu, type command prompt, right click, select 'run as administrator)
+3. Type: `mklink /d name_of_your_symbolic_link Z:` assuming you have mapped to your Z drive
 
-### Use Python
-###PC USERS
+### MAC Users:
+0. VPN into OSU if you're not on campus + map your files fomr the CGRB (see Map Network Drive in the set-up tutorial)
+1. Open your terminal 
+2. Create a symbolic link to your mapped files </br>
+`ln -s /Volumes/David_lab/YOURFOLDER CGRB_David_lab` </br>
+note: you could map the entire David is you wanted 
+
+### Using Python through Jupyter Notebook
+### PC USERS
 Note: we are going to connect to our mapped file on the CGRB
 *You will be using basic terminal commands. If you are not familiar with terminal, go to *SONICA'S PDF* for more instructions.*
 1. Go to the start menu, and open Anaconda Prompt. A terminal will open up.
 2. Navigate to the folder for you project using cd. If you don't have a project folder yet, make one using mkdir
 3. Open jupyter notebook using:
 `jupyter notebook`
+4. You should be able to see Z_Drive from the steps in "Give Python access to your mapped drive" above.
 4. To learn to use jupyter notebook interface, check out this tutorial: https://www.dataquest.io/blog/jupyter-notebook-tutorial/.
 Fly down to the heading "What is an ipynb File?" as we've already gone through the installation process.
 
-###MAC Users:
-0. VPN into OSU if you're not on campus + map your files fomr the CGRB (see Map Network Drive in the set-up tutorial)
-1. Open your terminal 
-2. Create a symbolic link to your mapped files </br>
-`ln -s /Volumes/David_lab/YOURFOLDER CGRB_David_lab` </br>
-note: you could map the entire David is you wanted 
-3. Now launch your jupiternotebook in your terminal
+### Mac USERS
+1. Open the terminal
+2. Now launch your jupyter notebook in your terminal
 `jupyter notebook`
-4. You should see in your list of files the CGRB_David_lab which points to your CGRB folder
+3. You should see in your list of files the CGRB_David_lab which points to your CGRB folder
 
 ### Install R
 #### follow the protocol here
