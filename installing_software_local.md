@@ -22,8 +22,8 @@ Fly down to the heading "What is an ipynb File?" as we've already gone through t
 
 ###MAC Users:
 1. Open your terminal 
-2. Create a symbolic link to your mapped files <\br>
-`ln -s /Volumes/David_lab/YOURFOLDER CGRB_David_lab` <\br>
+2. Create a symbolic link to your mapped files </br>
+`ln -s /Volumes/David_lab/YOURFOLDER CGRB_David_lab` </br>
 note: you could map the entire David is you wanted 
 3. Now launch your jupiternotebook in your terminal
 `jupyter notebook`
