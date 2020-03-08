@@ -9,7 +9,7 @@ When you are prompted, provide the file path TO YOUR MAPPED DRIVE.
 `Z:/your_name/software/`
 
 ### Use Python
-# Note: we are going to connect to our mapped file on the CGRB. It may be either in your z: drive for PC or /Volumes/David_Lab
+Note: we are going to connect to our mapped file on the CGRB. It may be either in your z: drive for PC or /Volumes/David_Lab
 
 *You will be using basic terminal commands. If you are not familiar with terminal, go to *SONICA'S PDF* for more instructions.*
 1. Go to the start menu, and open Anaconda Prompt. A terminal will open up.
