@@ -28,7 +28,7 @@ bashrc for R version
 1. Open up your basrc profile  
 `vi ~.bashrc`
 2. Go to the end of the file and type:
-`alias home= 'cd ~/../../../../nfs3/PHARM/David_Lab/YOURFILE/'  
+`alias home= 'cd ~/absolutePath' `
 Then exit: `:wq`
 3. Install .bashrc profile with one of two ways:
   * Log out and log back in 
