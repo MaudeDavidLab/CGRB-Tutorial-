@@ -1,0 +1,5 @@
+#### Let's say you have some data that you want to disseminate to the world, but it's too large to go on github. 
+## Make a folder in David_Lab/web_downloads/ for your data. Name it intelligently, the public will see this folder name
+## Inside that folder, make a symbolic link that points to the data you want to make public.
+`ln -s source_file_name name_of_your_link`
+## Direct people to download your data here: http://files.cgrb.oregonstate.edu/David_Lab/
