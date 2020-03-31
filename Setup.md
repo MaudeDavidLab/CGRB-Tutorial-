@@ -78,3 +78,6 @@ a.	Username: ONID\YOURONID
 
 b.	Password: Enter your email password
 
+
+## Symbolic link to mapped drive
+https://www.infopackets.com/news/10088/how-fix-cant-access-mapped-network-drive-administrative-command-prompt
