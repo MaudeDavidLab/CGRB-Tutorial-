@@ -48,7 +48,7 @@ Lastly, you want to map a network drive to the CGRB server. This allows you to d
 3.	Select "Map network drive"
 
 4.	Select the "Z" drive letter. (If Z is already taken, another drive letter may be used.) In the "Folder" text field, enter the path to the folder you wish to access.
-Folder pre-path should be: \\files.cgrb.oregonstate.edu\NFS_PHARM\David_lab
+Folder pre-path should be: \\\files.cgrb.oregonstate.edu\NFS_PHARM\David_lab
 \YOUR_FOLDER
 
 5.	You will then be prompted to enter your security credentials
