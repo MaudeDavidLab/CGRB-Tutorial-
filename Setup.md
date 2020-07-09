@@ -2,7 +2,7 @@
 
 ## Get a CGRB Account
 1.	If you do not have an CGRB account, then you will need to create one by filling out the form at: http://shell.cgrb.oregonstate.edu/access/
-2.	Have a graduate student email Chris Sullivan to make sure the process moves quickly. cc Maude
+2.	Have a graduate student email Chris Sullivanif you have issues and to make sure the process moves quickly. cc Maude: Chris.Sullivan@oregonstate.edu
 
 ## Getting a Terminal:
 ### Windows Users: Download a free Secure Shell (ssh). You can use either Moba or Putty. I recommend Moba. 
