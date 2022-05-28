@@ -1,0 +1,7 @@
+https://serverpilot.io/docs/how-to-use-ssh-public-key-authentication/
+https://winscp.net/eng/docs/guide_public_key
+
+1. Generate key pair on your local machine.
+2. Set up server to accept the public key (winscp or putty have the functionality built in)
+3. Save the location of the private key into the session that you load every time
+4. You win!
