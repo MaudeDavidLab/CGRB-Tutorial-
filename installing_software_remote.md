@@ -30,3 +30,7 @@ Then exit: `:wq`
 3. Install .bashrc profile with one of two ways:
   * Log out and log back in 
   * Run: `source ~/.bashrc`
+
+
+### If you are desperate, and you're trying to install a package that Christine has installed (like dada2 or ggplot2):
+1. Put this line at the top of your script: `.libPaths("/nfs3/PHARM/David_Lab/christine/software/R-3.6.0_cgrb/bin/packages")` and run as usual. This is changing the directory that R goes to to look for packages. If the packages have been installed, it should find them there and stop complaining
